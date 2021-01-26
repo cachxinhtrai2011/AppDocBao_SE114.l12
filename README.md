@@ -24,7 +24,7 @@
 * Language : Javascript
 # Database/Backend
 
-FrameWork : React Native 0.55.4
+FrameWork : React Native
 
 Database: phpMyAdmin
 
