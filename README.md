@@ -18,7 +18,7 @@
 
 * Target sdk : 26
 
-- iOS:
+-iOS:
 
 * iOS: 8.0\
 * Language : Javascript
